@@ -17,3 +17,4 @@ sklearn;
 pandas;
 numpy;
 
+The final submission scores 0.0747016 for private LB, which is between ranking #11 and #12: https://www.kaggle.com/c/zillow-prize-1/leaderboard
